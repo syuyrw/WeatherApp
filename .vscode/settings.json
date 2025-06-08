@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/jordanreitz/Library/Mobile Documents/com~apple~CloudDocs/School/cse 310/Assignments/Module 3/Weather/WeatherApp/lib/json-simple-1.1.1.jar"
+    ]
+}
